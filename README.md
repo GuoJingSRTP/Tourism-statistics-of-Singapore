@@ -9,4 +9,5 @@
 <img src="images/5.png">
 <img src="images/6.png">
 <img src="images/7.png">
+<img src="images/8.png">
 <img src="images/9.png">
